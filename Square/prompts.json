@@ -1,0 +1,435 @@
+[
+    {
+        "type": "Truth",
+        "prompt": "What is your favorite fruit?",
+        "category": "Kids",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Bite into a slice of lemon.",
+        "category": "Kids",
+        "value": 2
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is the last vegetable you ate?",
+        "category": "Kids",
+        "value": 3
+    },
+    {
+        "type": "Dare",
+        "prompt": "Put on some make-up without a mirror.",
+        "category": "Kids",
+        "value": 4
+    },
+    {
+        "type": "Truth",
+        "prompt": "Would you rather be early or late?",
+        "category": "Kids",
+        "value": 5
+    },
+    {
+        "type": "Dare",
+        "prompt": "Swap an item of clothing with someone.",
+        "category": "Kids",
+        "value": 6
+    },
+    {
+        "type": "Truth",
+        "prompt": "What job would you like when you grow up?",
+        "category": "Kids",
+        "value": 7
+    },
+    {
+        "type": "Dare",
+        "prompt": "Act like a teacher.",
+        "category": "Kids",
+        "value": 8
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s your favorite animal?",
+        "category": "Kids",
+        "value": 9
+    },
+    {
+        "type": "Dare",
+        "prompt": "Hop around the room like a bunny.",
+        "category": "Kids",
+        "value": 10
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you could be an animal, what would you be?",
+        "category": "Kids",
+        "value": 11
+    },
+    {
+        "type": "Dare",
+        "prompt": "Pretend to wash yourself like a cat.",
+        "category": "Kids",
+        "value": 12
+    },
+    {
+        "type": "Truth",
+        "prompt": "What are you scared of?",
+        "category": "Kids",
+        "value": 13
+    },
+    {
+        "type": "Dare",
+        "prompt": "Recite the alphabet backward.",
+        "category": "Kids",
+        "value": 14
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who is your favorite person?",
+        "category": "Kids",
+        "value": 15
+    },
+    {
+        "type": "Dare",
+        "prompt": "Sing Twinkle Twinkle Little Star in a pirate voice.",
+        "category": "Kids",
+        "value": 16
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is your favorite movie?",
+        "category": "Kids",
+        "value": 17
+    },
+    {
+        "type": "Dare",
+        "prompt": "Sing your favorite song.",
+        "category": "Kids",
+        "value": 18
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s the best gift you have ever received?",
+        "category": "Kids",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Draw a picture of the person on your left.",
+        "category": "Kids",
+        "value": 2
+    },
+    {
+        "type": "Truth",
+        "prompt": "What do you hide under your bed?",
+        "category": "Kids",
+        "value": 3
+    },
+    {
+        "type": "Dare",
+        "prompt": "Walk around the room with a book on your head.",
+        "category": "Kids",
+        "value": 4
+    },
+    {
+        "type": "Truth",
+        "prompt": "Have you ever told a lie?",
+        "category": "Kids",
+        "value": 5
+    },
+    {
+        "type": "Dare",
+        "prompt": "Do a handstand.",
+        "category": "Kids",
+        "value": 6
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is your most embarrassing memory?",
+        "category": "Kids",
+        "value": 7
+    },
+    {
+        "type": "Dare",
+        "prompt": "Whistle your favorite song while staring into someone’s eyes.",
+        "category": "Kids",
+        "value": 8
+    },
+    {
+        "type": "Truth",
+        "prompt": "Have you ever done something wrong and blamed it on someone else?",
+        "category": "Kids",
+        "value": 9
+    },
+    {
+        "type": "Dare",
+        "prompt": "Pretend to be a snake.",
+        "category": "Kids",
+        "value": 10
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who is the best dresser in your family?",
+        "category": "Kids",
+        "value": 11
+    },
+    {
+        "type": "Dare",
+        "prompt": "Do jumping jacks until it’s your turn again.",
+        "category": "Kids",
+        "value": 12
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s your favorite subject at school?",
+        "category": "Kids",
+        "value": 13
+    },
+    {
+        "type": "Dare",
+        "prompt": "Go outside and walk like a model.",
+        "category": "Kids",
+        "value": 14
+    },
+    {
+        "type": "Truth",
+        "prompt": "Where in the world would you like to visit?",
+        "category": "Kids",
+        "value": 15
+    },
+    {
+        "type": "Dare",
+        "prompt": "Stare at the person next to you for one minute, without blinking.",
+        "category": "Kids",
+        "value": 16
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who is the funniest person you know?",
+        "category": "Kids",
+        "value": 17
+    },
+    {
+        "type": "Dare",
+        "prompt": "Sing “Five Little Monkeys Jumping On The Bed” like an opera singer.",
+        "category": "Kids",
+        "value": 18
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who is your secret crush?",
+        "category": "Kids",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Draw a face on your hand and use it to talk for the rest of the game.",
+        "category": "Kids",
+        "value": 2
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is your favorite food?",
+        "category": "Kids",
+        "value": 3
+    },
+    {
+        "type": "Dare",
+        "prompt": "Ask another player to dance and do the tango with them.",
+        "category": "Kids",
+        "value": 4
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s the last dream you remember?",
+        "category": "Kids",
+        "value": 5
+    },
+    {
+        "type": "Dare",
+        "prompt": "Pretend to be a monkey and groom your friend’s hair.",
+        "category": "Kids",
+        "value": 6
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who is your celebrity crush?",
+        "category": "Kids",
+        "value": 7
+    },
+    {
+        "type": "Dare",
+        "prompt": "Sniff your friend’s feet.",
+        "category": "Kids",
+        "value": 8
+    },
+    {
+        "type": "Truth",
+        "prompt": "When did you last pick your nose?",
+        "category": "Kids",
+        "value": 9
+    },
+    {
+        "type": "Dare",
+        "prompt": "Try to lick your elbows.",
+        "category": "Kids",
+        "value": 10
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is your favorite book?",
+        "category": "Kids",
+        "value": 11
+    },
+    {
+        "type": "Dare",
+        "prompt": "Pretend to be a witch and fly around on a broomstick.",
+        "category": "Kids",
+        "value": 12
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who is your favorite superhero?",
+        "category": "Kids",
+        "value": 13
+    },
+    {
+        "type": "Dare",
+        "prompt": "Put your socks on your hands and use them as puppets.",
+        "category": "Kids",
+        "value": 14
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you had a superpower, what would it be?",
+        "category": "Kids",
+        "value": 15
+    },
+    {
+        "type": "Dare",
+        "prompt": "Stare straight ahead for one minute while your friends try to make you laugh.",
+        "category": "Kids",
+        "value": 16
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is your worst habit?",
+        "category": "Kids",
+        "value": 17
+    },
+    {
+        "type": "Dare",
+        "prompt": "Let your friends do your hair. Keep the hairstyle for the rest of the game.",
+        "category": "Kids",
+        "value": 18
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s the nicest thing anyone has ever done for you?",
+        "category": "Kids",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Sing a song with your tongue sticking out.",
+        "category": "Kids",
+        "value": 2
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is the meanest thing you have ever done?",
+        "category": "Kids",
+        "value": 3
+    },
+    {
+        "type": "Dare",
+        "prompt": "Speak in a French accent until your next turn.",
+        "category": "Kids",
+        "value": 4
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who is the kindest person you know?",
+        "category": "Kids",
+        "value": 5
+    },
+    {
+        "type": "Dare",
+        "prompt": "Put on a blindfold, feel someone’s face, and try to guess who it is.",
+        "category": "Kids",
+        "value": 6
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s the worst gift you ever received?",
+        "category": "Kids",
+        "value": 7
+    },
+    {
+        "type": "Dare",
+        "prompt": "Open a window and shout “Hello, I’m a bumblebee” to someone.",
+        "category": "Kids",
+        "value": 8
+    },
+    {
+        "type": "Truth",
+        "prompt": "When was the last time you cleaned your room?",
+        "category": "Kids",
+        "value": 9
+    },
+    {
+        "type": "Dare",
+        "prompt": "Pretend you’re a bee and collect pollen from your friends.",
+        "category": "Kids",
+        "value": 10
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you could choose a new name, what would it be?",
+        "category": "Kids",
+        "value": 11
+    },
+    {
+        "type": "Dare",
+        "prompt": "Stand on one foot until your next turn.",
+        "category": "Kids",
+        "value": 12
+    },
+    {
+        "type": "Truth",
+        "prompt": "Do you have something hidden in your room you shouldn’t?",
+        "category": "Kids",
+        "value": 13
+    },
+    {
+        "type": "Dare",
+        "prompt": "Sing Twinkle Twinkle Little Star, but with lyrics that you make up.",
+        "category": "Kids",
+        "value": 14
+    },
+    {
+        "type": "Truth",
+        "prompt": "Have you pretended to eat lunch and thrown it away?",
+        "category": "Kids",
+        "value": 15
+    },
+    {
+        "type": "Dare",
+        "prompt": "Make a sandwich while wearing a blindfold.",
+        "category": "Kids",
+        "value": 16
+    },
+    {
+        "type": "Truth",
+        "prompt": "Have you ever peed in a swimming pool?",
+        "category": "Kids",
+        "value": 17
+    },
+    {
+        "type": "Dare",
+        "prompt": "Pretend to swim across the floor.",
+        "category": "Kids",
+        "value": 18
+    }
+]
+ 

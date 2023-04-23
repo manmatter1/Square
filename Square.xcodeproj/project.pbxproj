@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		690BB84F29F54470005895AE /* prompts.json in Resources */ = {isa = PBXBuildFile; fileRef = 690BB84E29F54470005895AE /* prompts.json */; };
+		690BB85129F54478005895AE /* ThePrompt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690BB85029F54478005895AE /* ThePrompt.swift */; };
 		697F095C29F4B237005E6F62 /* SquareApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697F095B29F4B237005E6F62 /* SquareApp.swift */; };
 		697F095E29F4B237005E6F62 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697F095D29F4B237005E6F62 /* ContentView.swift */; };
 		697F096029F4B237005E6F62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 697F095F29F4B237005E6F62 /* Assets.xcassets */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		690BB84E29F54470005895AE /* prompts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = prompts.json; sourceTree = "<group>"; };
+		690BB85029F54478005895AE /* ThePrompt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThePrompt.swift; sourceTree = "<group>"; };
 		697F095829F4B237005E6F62 /* Square.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Square.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		697F095B29F4B237005E6F62 /* SquareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareApp.swift; sourceTree = "<group>"; };
 		697F095D29F4B237005E6F62 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -34,6 +38,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		690BB85229F54482005895AE /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				697F095B29F4B237005E6F62 /* SquareApp.swift */,
+				697F095D29F4B237005E6F62 /* ContentView.swift */,
+				697F096929F4B7DE005E6F62 /* theJester.swift */,
+				690BB85029F54478005895AE /* ThePrompt.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		697F094F29F4B237005E6F62 = {
 			isa = PBXGroup;
 			children = (
@@ -53,9 +68,8 @@
 		697F095A29F4B237005E6F62 /* Square */ = {
 			isa = PBXGroup;
 			children = (
-				697F095B29F4B237005E6F62 /* SquareApp.swift */,
-				697F095D29F4B237005E6F62 /* ContentView.swift */,
-				697F096929F4B7DE005E6F62 /* theJester.swift */,
+				690BB84E29F54470005895AE /* prompts.json */,
+				690BB85229F54482005895AE /* Views */,
 				697F095F29F4B237005E6F62 /* Assets.xcassets */,
 				697F096129F4B237005E6F62 /* Preview Content */,
 			);
@@ -128,6 +142,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				690BB84F29F54470005895AE /* prompts.json in Resources */,
 				697F096329F4B237005E6F62 /* Preview Assets.xcassets in Resources */,
 				697F096029F4B237005E6F62 /* Assets.xcassets in Resources */,
 			);
@@ -141,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				697F095E29F4B237005E6F62 /* ContentView.swift in Sources */,
+				690BB85129F54478005895AE /* ThePrompt.swift in Sources */,
 				697F096A29F4B7DE005E6F62 /* theJester.swift in Sources */,
 				697F095C29F4B237005E6F62 /* SquareApp.swift in Sources */,
 			);
