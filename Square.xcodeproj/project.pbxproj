@@ -11,7 +11,7 @@
 		697F095E29F4B237005E6F62 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697F095D29F4B237005E6F62 /* ContentView.swift */; };
 		697F096029F4B237005E6F62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 697F095F29F4B237005E6F62 /* Assets.xcassets */; };
 		697F096329F4B237005E6F62 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 697F096229F4B237005E6F62 /* Preview Assets.xcassets */; };
-		CC71A13729F4B7D7001C9E35 /* Circle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC71A13629F4B7D7001C9E35 /* Circle.swift */; };
+		CC8FCE6829F5630F0021F2A2 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC8FCE6729F5630F0021F2A2 /* Menu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,7 +53,7 @@
 		697F095A29F4B237005E6F62 /* Square */ = {
 			isa = PBXGroup;
 			children = (
-				CC71A13629F4B7D7001C9E35 /* Circle.swift */,
+				CC8FCE6729F5630F0021F2A2 /* Menu.swift */,
 				697F095B29F4B237005E6F62 /* SquareApp.swift */,
 				697F095D29F4B237005E6F62 /* ContentView.swift */,
 				697F095F29F4B237005E6F62 /* Assets.xcassets */,
@@ -140,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC8FCE6829F5630F0021F2A2 /* Menu.swift in Sources */,
 				697F095E29F4B237005E6F62 /* ContentView.swift in Sources */,
 				697F095C29F4B237005E6F62 /* SquareApp.swift in Sources */,
 				CC71A13729F4B7D7001C9E35 /* Circle.swift in Sources */,
