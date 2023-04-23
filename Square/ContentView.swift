@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Square
 //
-//  Created by Jay Jayaprakash on 23/04/2023.
+//  Created by Arryn Lyness on 23/04/2023.
 //
 
 import SwiftUI
