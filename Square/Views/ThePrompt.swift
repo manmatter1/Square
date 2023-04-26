@@ -14,6 +14,8 @@ struct ThePrompt: View {
     // efine a variable to hold the category caught
     @State var categoryCaught:String
     
+    private let gradientPro = Gradient(colors: [.blue, .red])
+    
     // Define a function to load the JSON data from prompts.json
     func loadJSONData() -> [Prompt] {
         guard let url = Bundle.main.url(forResource: "prompts", withExtension: "json") else {
@@ -63,6 +65,7 @@ struct ThePrompt: View {
                         .frame(width: .infinity,height: .infinity)
                         .padding(.bottom)
                         .padding(20)
+                        .glow(color: .indigo)
                     } else{
                         
                         Rectangle()
@@ -253,4 +256,5 @@ extension View{
         modifier(Glow(color: color))
     }
 }
+
 

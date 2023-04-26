@@ -430,6 +430,1180 @@
         "prompt": "Pretend to swim across the floor.",
         "category": "Kids",
         "value": 18
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you could be invisible for a day, what’s the first thing you would do?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s the biggest secret you’ve kept from your parents?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s the most embarrassing music you listen to?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s one thing you love most about yourself?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who is your secret crush?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who is the last person you creeped on social media?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "When was the last time you wet the bed?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If a genie granted you three wishes, what would you ask for and why?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s your biggest regret?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you had to only ever watch rom coms or only watch scary movies for the rest of your life, which would you choose and why?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Where is the weirdest place you've ever gone to the bathroom?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Have you ever ghosted on someone?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Which player would survive a zombie apocalypse and which would be the first to go?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Reveal all the details of your first kiss.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What excuse have you used before to get out plans?",
+        "category": "Teens",
+        "value": 1
+    },
+    {   "type": "Truth",
+        "prompt": "What's the longest you've ever slept?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "What's the shortest you've ever slept?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "Read the last text you sent your best friend or significant other out loud.",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "What's your biggest pet peeve?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "When was the last time you lied?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "What five things would you bring to a deserted island?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "Which is your favorite Hollywood Chris? Chris Evans, Chris Pratt, Chris Hemsworth or Chris Pine?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "What's the most embarrassing thing you ever did on a date?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is the boldest pickup line you've ever used?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "What celebrity do you think you most look like?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "How many selfies do you take a day?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is one thing you would stand in line an hour for?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "When was the last time you cried?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "What's the longest time you've ever gone without showering?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "What's the most embarrassing top-played song on your phone?",
+        "category": "Teens",
+        "value": 1
+        
+    },
+    {
+        "type": "Truth",
+        "prompt": "What was your favorite childhood show?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you had to change your name, what would your new first name be?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you could be a fictional character for a day, who would you choose?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you could date a fictional character, who would it be?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What's your biggest fear?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What's one silly thing you can't live without?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Where was your favorite childhood vacation spot?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is the weirdest trend you've ever participated in?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you could only listen to one song for the rest of your life, what would you choose?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who do you text the most?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Have you ever been fired from a job?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you had to wear only flip flops or heels for the next 10 years, which would you choose?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s an instant deal breaker in a potential love interest?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you could only eat one thing for the rest of your life, what would you choose?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is the biggest lie you ever told your parents?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is the biggest lie you ever told your parents?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What's the worst physical pain you've ever experienced?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Which player knows you the best?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What's your favorite part of your body?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you could only accomplish three things in life, what would they be?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What's the weirdest thing you've ever eaten?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Have you ever gone skinny dipping?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Tell us about the biggest romantic fail you’ve ever experienced.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who was your first celebrity crush?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What's the strangest dream you've ever had?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What are the top three things you look for in a love interest?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is your worst habit?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "How many stuffed animals do you own?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Do you sleep with any stuffed animals?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What is your biggest insecurity?",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Name one thing you’d do if you knew there’d be zero consequences.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "When’s the last time you said you were sorry? For what?",
+        "category": "Personal",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Do you pee in the shower?",
+        "category": "Personal",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Do you still have feelings for any of your exes?",
+        "category": "Relationships",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s the most embarrassing thing you’ve done to get a crush’s attention?",
+        "category": "Relationships",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s the most random thing in your bag right now?",
+        "category": "Personal",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Have you ever sent a sext?",
+        "category": "Relationships",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s the last movie that made you cry?",
+        "category": "Entertainment",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s the last song that made you cry?",
+        "category": "Entertainment",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What are the five most recent things in your search history?",
+        "category": "Personal",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "When’s the last time you got caught in a lie?",
+        "category": "Personal",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What gross smell do you actually enjoy?",
+        "category": "Personal",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who was the last person you said “I love you” to?",
+        "category": "Relationships",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Have you ever had a paranormal experience?",
+        "category": "Personal",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you could have lunch with a famous person, dead or alive, who would you pick and why?",
+        "category": "Personal",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you were handed $1,000 right now, what would you spend it on?",
+        "category": "Personal",
+        "value": 1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Who’s your celebrity “hall pass” if you were to meet that person while in a relationship?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Have you ever cheated on an exam?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What unexpected part of the body do you find attractive?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s the most awkward thing you’ve ever been caught doing?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Have you ever flirted with a close friend’s sibling?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What was your first concert?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you had the choice to never have to sleep again, would you take it?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you had to get a tattoo today, what would it be?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Even if you’d be paid $1 million for it, what’s something you would never do?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "If you could travel to the past and meet one person, who would it be?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What popular TV show or movie do you secretly hate?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Where do you see yourself in 10 years?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "Name your go-to karaoke song.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "What’s the most adventurous thing you’ve ever done?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Truth",
+        "prompt": "When have you been in the most trouble in school?",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Try to lick your foot!",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Do a three-way prank call to somebody so that I can listen.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Fill up the bath and get in with your current outfit still on.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Pick the third number on your contacts list and message them a silly poem.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Open up all your windows and sing an entire song as loud as you can.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "I dare you to order me $10 worth of food for delivery.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Shave your arms and send me a pic.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Record yourself singing a song and post it on YouTube.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Mix a drop of every condiment in your house and drink/eat it.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Message someone you haven’t talked to in at least one year on Facebook or Instagram and take a screenshot.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Cut a piece of your hair.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Put ice cubes down your pants and try to shake them out and send me a video.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Take a video of yourself doing a crazy dance and post it to social media.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Ask a neighbor if they have fifty cents.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Walk around the block and talk to yourself the entire time, even when people are around.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Go up to your biggest window and dance badly until someone walks past.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Text a random number and write ‘I see dead people.’",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Make a video of yourself making your weirdest habit!",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Close your eyes and reach into your fridge or food pantry – the first thing you touch, you have to eat.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Send me a screenshot of your messages with the last person besides me you texted.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Brush your teeth with peanut butter or another condiment and send me a pic.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Send me a screenshot of your selfies gallery.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Watch five minutes of an adult movie I’ll send you.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Put on clothes of the opposite sex and take a video of yourself trying to act like a guy/girl.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Create a really bad, five-minute make-up tutorial and post it to YouTube.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Show us your most recent social media direct message in a screenshot.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Make a prank call to another best friend.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Bark like a dog for two whole minutes.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Take peanut butter and coat your face in it.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Order five pizzas to your house right now.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Go into the bathroom and unroll all the toilet paper.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Try to make one part of your body make a fart sound.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Take a shower with your clothes on.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Go onto Doordash and order something super random.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Ask your crush out on a date through text message.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Try to be funny and make us laugh with your best joke.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Take a revealing photograph right now and post it on social media.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Text your parents that you’re pregnant.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Roll around on the floor and pretend you have a really bad stomach ache.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Take an unflattering picture and make it your profile picture for one full day.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Pretend to be playing a sport in your living room.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Act out your favorite movie in only two minutes.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Pick someone random from your contact list and call them.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Text your parents and tell them that you’re interested in the same sex.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Call Pizza Hut and pretend to order Chipotle.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Take a photograph of yourself going to the bathroom.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Google something really disturbing and take a photograph of the results.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Walk into your parent’s bedroom and jump on the bed.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Go ask your neighbor if they have any eggs and then smash them on your sidewalk.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Try to lick your own elbow.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Rub your feet with your hands and then smell your hands.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Try to take a bite out of a bar of soap.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Try to eat a tablespoon of cinnamon.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Find something spicy in your fridge and take a big bite out of it.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Go into your kitchen, find an onion, and take a big bite.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Make a sandwich with potato chips and take a bite.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Run into your brother or sister’s room and scream.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Tell your brother or sister that you have a disorder and then try to fart in front of them.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Go to your biggest window in the house and start dancing poorly for 2-minutes.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Text a random number on your phone and take a really bad selfie of yourself.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Shave a part of your body that you never shave.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Pretend that you’re a mummy and annoy your brother/sister/parents.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Knock on your neighbor’s door and run away.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Make out with yourself for 2-minutes and videotape yourself doing it.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Prank, call someone and try to talk for 15 minutes straight. Then, take a recording of the call.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Eat a spoonful of any condiment of my choosing.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Tell your crush you like them over text. Screenshot the conversation.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Make up a song and voice record yourself singing it. Then, send it to me when you’re done.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Video yourself eating a tablespoon of butter and send it to me.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Lick your armpit. Record yourself.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Wrap your head with toilet paper like a mummy, take a picture, and make it your profile pic.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Call someone and confess your new love of Justin Bieber.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Text a friend and tell them their hair is on backward.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Use a picture of me as your phone background for three days.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Send me the link to the last YouTube video you watched.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Write a short love poem.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Find some lipstick and put it on.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Write my name somewhere on your body (where it can be hidden) with a permanent marker.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Do a sexy dance with just one leg.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Record yourself singing your favorite love song and send it to me.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Send me the most unflattering picture of yourself on your phone.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Video call me or record yourself dancing for 1 minute with no music.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Send me a screenshot of your text inbox without deleting anything.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Read me the first email in your inbox.",
+        "category": "Teens",
+        "value":1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Tell me all of the contents of your purse/wallet.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Take a video of yourself drinking pickle juice.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Go outside and do the chicken dance where people can see you for 1 minute.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Do the macarena for 2 minutes straight.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Dip a bar of soap in sauce and lick it.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Go as far down in the splits as you can.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Close your eyes and write a text without looking. Then, send it to someone random and screenshot the conversation for proof.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Write a status on Facebook praising me.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Write a break-up text message and send it to someone random in your contacts. Take a screenshot for proof.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Fill your mouth full of water and say your full name. Then, take a video and send it.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Call your crush and flirt.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Dial a random number and make meaningless conversation for 2 minutes.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Do 25 sit ups without stopping.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Wear all your clothing inside-out for an hour.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Take a video of yourself drinking water like a dog.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Take a video of yourself imitating a celebrity.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Crack two eggs on your head, then take a selfie.",
+        "category": "Teens",
+        "value": 1
+    },
+    {
+        "type": "Dare",
+        "prompt": "Call me and say my name in a loud voice.",
+        "category": "Teens",
+        "value": 1
     }
+    
+    
 ]
  
